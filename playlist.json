@@ -1,6 +1,13 @@
   {
   "songs": [
     {
+      "albumart": "https://zhongwen37.github.io/playlist/album/AlexanderRybak-Fairytale.jpg",
+      "author": "Alexander Rybak",
+      "song": "Fairytale",
+      "json": "https://zhongwen37.github.io/playlist/data/AlexanderRybak-Fairytale.json",
+      "audio": "https://zhongwen37.github.io/playlist/music/AlexanderRybak-Fairytale.mp3"
+    },
+    {
       "albumart": "https://zhongwen37.github.io/playlist/album/AlexanderStewart-LifeatFirstSight.jpg",
       "author": "Alexander Stewart",
       "song": "Life at First Sight",
@@ -34,13 +41,34 @@
       "song": "By My Side",
       "json": "https://zhongwen37.github.io/playlist/data/DavidChoi-ByMySide.json",
       "audio": "https://zhongwen37.github.io/playlist/music/DavidChoi-ByMySide.mp3"
-    },    
+    },
+    {
+      "albumart": "https://zhongwen37.github.io/playlist/album/GooGooDolls-Iris.jpg",
+      "author": "Goo Goo Dolls",
+      "song": "Iris",
+      "json": "https://zhongwen37.github.io/playlist/data/GooGooDolls-Iris.json",
+      "audio": "https://zhongwen37.github.io/playlist/music/GooGooDolls-Iris.mp3"
+    },
+    {
+      "albumart": "https://zhongwen37.github.io/playlist/album/Gustixa-CantHelpFallingInLove.jpg",
+      "author": "Gustixa",
+      "song": "Can't Help Falling In Love",
+      "json": "https://zhongwen37.github.io/playlist/data/Gustixa-CantHelpFallingInLove.json",
+      "audio": "https://zhongwen37.github.io/playlist/music/Gustixa-CantHelpFallingInLove.mp3"
+    },
     {
       "albumart": "https://zhongwen37.github.io/playlist/album/HenryMoodie-DrunkText.jpg",
       "author": "Henry Moodie",
       "song": "Drunk Text",
       "json": "https://zhongwen37.github.io/playlist/data/HenryMoodie-DrunkText.json",
       "audio": "https://zhongwen37.github.io/playlist/music/HenryMoodie-DrunkText.mp3"
+    },
+    {
+      "albumart": "https://zhongwen37.github.io/playlist/album/ImagineDragons-Summer.jpg",
+      "author": "Imagine Dragons",
+      "song": "Summer",
+      "json": "https://zhongwen37.github.io/playlist/data/ImagineDragons-Summer.json",
+      "audio": "https://zhongwen37.github.io/playlist/music/ImagineDragons-Summer.mp3"
     },
     {
       "albumart": "https://zhongwen37.github.io/playlist/album/JVKE-GoldenHour.jpg",
@@ -69,6 +97,20 @@
       "song": "Koiiro",
       "json": "https://zhongwen37.github.io/playlist/data/Mosawo-Koiiro.json",
       "audio": "https://zhongwen37.github.io/playlist/music/Mosawo-Koiiro.mp3"
+    },
+    {
+      "albumart": "https://zhongwen37.github.io/playlist/album/NeckDeep-WishYouWereHere.jpg",
+      "author": "Neck Deep",
+      "song": "Wish You Were Here",
+      "json": "https://zhongwen37.github.io/playlist/data/NeckDeep-WishYouWereHere.json",
+      "audio": "https://zhongwen37.github.io/playlist/music/NeckDeep-WishYouWereHere.mp3"
+    },
+    {
+      "albumart": "https://zhongwen37.github.io/playlist/album/RexOrangeCounty-TheShade.jpg",
+      "author": "Rex Orange County",
+      "song": "The Shade",
+      "json": "https://zhongwen37.github.io/playlist/data/RexOrangeCounty-TheShade.json",
+      "audio": "https://zhongwen37.github.io/playlist/music/RexOrangeCounty-TheShade.mp3"
     },
     {
       "albumart": "https://zhongwen37.github.io/playlist/album/RickyMontgomery-LineWithoutAHook.jpg",
